@@ -1,0 +1,22 @@
+body {
+    background-color: gray;
+}
+
+
+#select_group {
+    display: none;
+    width: 500px;
+  }
+  
+#select_department {
+    width: 500px;
+  }  
+#select_semester {
+    display: none;
+    width: 500px;
+  }  
+#generate_button {
+    display: none;
+    width: 250px;
+    height: 100px;
+  }  

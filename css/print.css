@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+  }
+td {
+  padding: 0px;
+  margin: 0px;
+  font-size: 12px;
+  }
+.rotate {
+    position: relative;
+    display:block;
+    -webkit-writing-mode: vertical-rl;
+    //font-size: 8px;	
+    //border: 1px solid red;
+    width: 23px;
+    height: 100px;
+    overflow: hidden;
+    font-size: 8px;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 3px;
+}
